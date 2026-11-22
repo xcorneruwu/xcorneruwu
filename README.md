@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there, I'm xcorneruwu 👋
 
-<!--
-**xcorneruwu/xcorneruwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Vietnam.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- learning Python the slow way
+- happier in a terminal than in an IDE
+- rewrites it once, then leaves it alone
+
+<img src="https://img.shields.io/badge/TypeScript-7aa2f7?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-7aa2f7?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/React-7aa2f7?style=for-the-badge&logoColor=white" alt="React" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=xcorneruwu&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xcorneruwu&hide_border=true&theme=calm" alt="Commit streak" />
+
+</td>
+</tr>
+</table>
+
+**Currently**
+
+- 🕹️ retro games when the build breaks
+- ☕ coffee count today: too many
+
+---
+
+<a href="https://github.com/xcorneruwu"><img src="https://img.shields.io/badge/GitHub-@xcorneruwu-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/github/followers/xcorneruwu?label=Followers&style=social" alt="Followers" />
+
+<sub>Drop a star if any of my repos helps you.</sub>
